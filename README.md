@@ -1,0 +1,2 @@
+# Maven_Analytics_SQL_for_Data_Analysis_Final_Project
+This repository contains the details of the Final Project for the Maven_Analytics_SQL_for_Data_Analysis
